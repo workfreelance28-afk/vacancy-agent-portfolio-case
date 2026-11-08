@@ -1,3 +1,5 @@
+> Полный исходный код: https://github.com/workfreelance28-afk/vacancy-agent-public
+
 # Vacancy Agent — portfolio case
 
 Sanitized public showcase of a private AI-integration project. Started as a personal workflow for finding, filtering, ranking and reviewing Junior AI Integration vacancies with local LLM assessment and Telegram delivery (human-in-the-loop decisions throughout). A second stage turned that MVP into a small, measurable production-like service: FastAPI + PostgreSQL, a background job queue with retries, Docker Compose + CI, versioned evaluation with a regression gate, structured observability, and a safe MCP tool with human-in-the-loop approval.
